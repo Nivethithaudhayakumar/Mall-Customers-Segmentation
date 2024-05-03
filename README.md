@@ -1,1 +1,1 @@
-# Mall-Customers-Segmentation
+# Machine learning solutions for consumer analysis. 
